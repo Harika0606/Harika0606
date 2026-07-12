@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="330" src="https://dribbble.com/shots/2498700-Toptal-Scholarship-for-Female-Developers-Winner"/>
+<img align="right" width="330" src="https://cdn.dribbble.com/userupload/41793229/file/original-bdf593e10d45bcc08263d027f48ff009.gif"/>
 
 - 🎓 B.Tech CSE (2023–2027)
 - 🏫 Sreyas Institute of Engineering & Technology
