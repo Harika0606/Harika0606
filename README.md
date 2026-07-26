@@ -92,20 +92,4 @@
 </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harika0606&theme=tokyonight&no-frame=true&row=1&column=7" alt="Harika's GitHub Trophies" />
-</p>
-
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harika0606&style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
 
