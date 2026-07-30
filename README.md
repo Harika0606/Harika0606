@@ -60,13 +60,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harika0606&theme=tokyo-night"/>
 </p>
 
-## 🐍 Contribution Snake
-
-> Enable the GitHub Actions workflow to generate this animation.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Harika0606/Harika0606/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ## 🚀 Featured Projects
 
